@@ -1,1 +1,0 @@
-# Holbertonschool_Technical_Documentation
